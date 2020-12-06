@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('../image/portrait.png');
+    background-image:url('https://tva1.sinaimg.cn/large/0081Kckwgy1gldys5jtk0j30ij0ijwkf.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
